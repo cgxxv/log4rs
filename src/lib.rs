@@ -1,3 +1,5 @@
+#![allow(warnings)]
+
 //! log4rs is a highly configurable logging framework modeled after Java's
 //! Logback and log4j libraries.
 //!
